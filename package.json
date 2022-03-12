@@ -1,7 +1,6 @@
 {
   "name": "react-pie-chart-library",
   "version": "0.1.0",
-  "private": true,
   "main": "dist/PieChart.js",
   "module": "dist/PieChart.js",
   "files": ["dist"],
